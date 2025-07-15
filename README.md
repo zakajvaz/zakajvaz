@@ -26,5 +26,5 @@
 ---
 
 ## 📫 Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram)](t.me/Aivaz_Zakirov)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram)](https://t.me/Aivaz_Zakirov)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?logo=gmail)](mailto:zakajvaz@yandex.ru)
